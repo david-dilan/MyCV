@@ -1,0 +1,200 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "work": "Work Experience",
+    "awards": "Formation",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Volunteer Experience"
+  },
+  "basics": {
+    "email": "david.dilanchian@pm.me",
+    "phone": "(514) 515-2845",
+    "location": {
+      "address": "Laval, QC"
+    },
+    "name": "David   L. Dilanchian",
+    "website": "davidldilanchian.info"
+  },
+  "education": [
+    {
+      "location": "Montreal, Qc",
+      "studyType": "DEC",
+      "startDate": "Sep 2009",
+      "gpa": "",
+      "area": "Social Science",
+      "institution": "Vanier College",
+      "endDate": "May 2012"
+    },
+    {
+      "startDate": "Sep 2006",
+      "endDate": "Jun 2009",
+      "area": "Concentration Science",
+      "studyType": "DES",
+      "location": "Laval, Qc",
+      "institution": "Saint-Maxime"
+    }
+  ],
+  "work": [
+    {
+      "company": "HayFintech",
+      "location": "Montreal, Qc",
+      "position": "CO-Founder",
+      "website": "",
+      "startDate": "Jan 2017",
+      "endDate": "Present",
+      "highlights": [
+        "Research, design, develop, and test blockchain technologies",
+        "Maintain and extend current client- and server-side applications responsible for integration and business logic",
+        "Be involved in the global blockchain community—work on implementing and integrating the latest improvement proposals"
+      ]
+    },
+    {
+      "highlights": [
+        "Produce reports for the Management team",
+        "Plan, develop and manage web and mobile campaign and channel tracking",
+        "Collaborate with sales and marketing teams"
+      ],
+      "company": "Show Viral",
+      "position": "Web Analyst",
+      "location": "Montreal, Qc",
+      "startDate": "Dec 2015",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Manage day-to-day operations of the cafe",
+        "Hire & Train employees",
+        "Nurture friendly relationships with customers to increase loyalty",
+        "Coordinate with vendors and order supplies & maintain records"
+      ],
+      "company": "Cafe Babylonia",
+      "position": "Owner & Manager",
+      "location": "Laval, Qc",
+      "startDate": "Apr 2013",
+      "endDate": "Dec 2015"
+    },
+    {
+      "highlights": [
+        "Promote & sell products and services while exceeding sales forecasts",
+        "Establish, develop and maintain positive business and customer relationships",
+        "Analyze the territory/market’s potential, track sales and status reports",
+        "Continuously improve through feedback"
+      ],
+      "company": "Action 500 Paintball & Karting",
+      "location": "Laval, Qc",
+      "startDate": "Mar 2012",
+      "endDate": "Apr 2013",
+      "position": "Sales Representative"
+    },
+    {
+      "highlights": [
+        "Educate customers on how products or services can benefit them financially & professionally",
+        "Maintaining positive business relationships to ensure future sales",
+        "Supply management with reports on customer needs, problems, interests, competitive activities, and potential for new products",
+        "Keep abreast of best practices and promotional trends"
+      ],
+      "company": "SAIL Outdoor equipment store",
+      "position": "Sales Representative",
+      "location": "Laval, Qc",
+      "startDate": "Mar 2011",
+      "endDate": "Apr 2012"
+    },
+    {
+      "highlights": [
+        "Trained and managed a team of 3 prep-cooks and achieved significant improvements in their productivity",
+        "Mastered point-of-service computer system for automated order taking",
+        "Monitoring consistently the food quality and service quality of orders being served.",
+        "Successfully handled opening and closing of establishment"
+      ],
+      "company": "Harvey's",
+      "location": "Laval, Qc",
+      "startDate": "Apr 2007",
+      "endDate": "Dec 2011",
+      "position": "GRILL MASTER"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python/C++",
+        "nodeJS/Java/Typscript",
+        "HTML5/BootstrapAngular"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "Publisher",
+        "MyAnalytics",
+        "Visio",
+        "SharePoint"
+      ],
+      "name": "Microsoft Office"
+    },
+    {
+      "keywords": [
+        "English -Proficient C2",
+        "French -Proficient C2",
+        "Armenian -Intermediate B1"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SCAMA",
+      "description": "Teaching Senior Citizens how to start and use Computers/Social Media/Internet",
+      "url": "https://github.com/david-dilan/SCAMA",
+      "keywords": [
+        "Windows 10/iOS/AndroidOS",
+        "Gmail/Youtube/Google"
+      ]
+    },
+    {
+      "keywords": [
+        "Market the candidate by passing out informational flyers",
+        "Participated in door-to-door canvassing events"
+      ],
+      "name": "Laval Electoral Campaign 2017",
+      "description": "Electoral Campaign Volunteer during the 2017 Laval municipal election"
+    },
+    {
+      "keywords": [
+        "Leadership",
+        "Liaison with Parents/Districts",
+        "Ensure that the health & safety of all members"
+      ],
+      "description": "Scout Leaders are primarily responsible for organizing the activities of the group, and training the youth members through the Scout program.",
+      "name": "Scouts Leader at Homenetmen Montreal"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2009 - 2022",
+      "awarder": "Canadian Red Cross",
+      "summary": "Certification in Emergency First Aid, CPR Level C, and AED",
+      "title": "First Aid & CPR/AED"
+    },
+    {
+      "date": "2006 - Pres.",
+      "title": "Class 5 Drivers Licences",
+      "awarder": "SAAQ",
+      "summary": "A Class 5 licence authorizes its holder to drive an automobile, motor home, tool vehicle, service vehicle."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
